@@ -3,4 +3,4 @@ logo: /assets/img/PoeEiEiAung.jpg
 description: My Portfolio in Github Page
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: minima
