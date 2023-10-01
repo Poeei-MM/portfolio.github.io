@@ -1,9 +1,7 @@
 # PORTFOLIO
-- Poe Ei Ei Aung
-- Mahar Aung Myay Township ,
-- Mandalay , Myanmar.
+- Mahar Aung Myay Township, Mandalay , Myanmar
 - Email     :  poeeiaerial100@gmail.com
-- GitHub :  https://github.com/Poeei-MM
+- GitHub    :  https://github.com/Poeei-MM
 - LinkIn    : https://www.linkedin.com/in/poe-ei-aung-73bb911a2
 
 ## Education
@@ -21,7 +19,18 @@
 July 2019 - PRESENT,  Mandalay
 
 ** Laravel Projects: **
-- Batch System (Present)
+- Client Project (Present)
+```
+Using Tech : Laravel-9
+Running Consumer Survey for start, weekly and monthly that will get their results depending on Sleep or Lifestyle Program
+Batch system for Sending remind mail and report mail for their results
+Use AWS Code Commit for Version Control
+Build new project with laravel (customer project)
+Run and maintain with Docker Service
+Build and deploy on AWS CI/CD
+Collaborate and communicate with Japan Team Members
+```
+- Batch System
 ```
 Using Tech : Laravel-9 , Node.js , AWS APIGateways , DynamoDB , Lambda and AWS RDS 
 Running Sequentially , Daily and Monthly Batches
@@ -88,16 +97,20 @@ Solved the problems about this project ,  and provide the better solutions for t
 December 2017 - June 2019,  Mandalay
 
 ** Mobile Application Development: **
-- Ionic 3, Angular 4 & Cordova Projects: Quiz App
+- Ionic 3, Angular 4 & Cordova Projects:
+- Quiz App
 ```
 Administration and Customer Products Ordering Apps
 Used with REST APIs of Wordpress and E-commerce
 Can create products and managed e-commerce features (as shopkeepers and admins)
 Can view and ordered the products and finally checked the tracking for his order status (as consumers)
-QR Code Scanner App
-Scanned QR and updated the entry ID of each staff
-My Location and Routing Directory App with Google Map
 ```
+- QR Code Scanner App
+```
+Scanned QR and updated the entry ID of each staff
+```
+- My Location and Routing Directory App with Google Map
+
 
 ** Web Development: **
 - Wordpress(CMS) Projects:
@@ -107,8 +120,8 @@ Endpoint Creating Plugin,
 Woocommerce , SEO, REST APIs
 ```
 
-
 ## Skills & Technologies
+
 ### Front End
 - HTML
 - CSS
@@ -118,6 +131,7 @@ Woocommerce , SEO, REST APIs
 - Vue
 - React (Basic)
 - Angular
+
 ### Back End
 - PHP (CodeIgniter , Laravel)
 - Node.js (Express)
@@ -127,8 +141,10 @@ Woocommerce , SEO, REST APIs
 - SqLite
 - DynamoDB
 - REST APIs
+
 ### Mobile Development
 - Ionic Framework with Angular & Cordova
+
 ### Operating System & Version Control System
 - Git , GitHub , GitLab and AWS Code Commit
 - Fedora (linux) and Window
