@@ -3,5 +3,5 @@ logo: PoeEiEiAung.jpg
 description: My Portfolio in Github Page
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: minimal
 remote_theme: pages-themes.github.io/minimal
