@@ -1,6 +1,7 @@
 title: Poe Ei Ei Aung
-logo: PoeEiEiAung.jpg
+logo: /PoeEiEiAung.jpg
 description: My Portfolio in Github Page
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
+remote_theme: jekyll-theme-minimal
