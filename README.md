@@ -19,9 +19,10 @@
 ## Working Experience
 ### Scala-Next,Inc Company / Senior Web Developer
 July 2019 - PRESENT,  Mandalay
-- Laravel Projects:
-```
+
+** Laravel Projects: **
 - Batch System (Present)
+```
 Using Tech : Laravel-9 , Node.js , AWS APIGateways , DynamoDB , Lambda and AWS RDS 
 Running Sequentially , Daily and Monthly Batches
  Unit Testing
@@ -31,8 +32,9 @@ Run and maintain with Docker Service
 Build and deploy on AWS CI/CD
 Collaborate and communicate with Japan Team Members
 ```
-```
+
 - Employee Management System
+```
 Used Tech :  Laravel-6, MySQL and AWS S3
 Initial On-the-Job Training(OJT)
 Use AWS Code Commit for Version Control
@@ -45,9 +47,9 @@ Collaborated with Management Team in Japan
 Laravel Design Patterns (OJT)
 ```
 
-- GoLang & React JS Project:
+** GoLang & React JS Project: **
+- Content Form Management Consumer and Administration Sites
 ```
-Content Form Management Consumer and Administration Sites
 Using Tech : React , Go-Lang and various of AWS Services
 In-house Project
 Collaborated with Management Team in Japan
@@ -57,9 +59,9 @@ Develop with AWS WAF , SNS notification alert for Website Security
 Learn and research for React Framework
 ```
 
-- Node JS & Vue JS Projects:
-```
+** Node JS & Vue JS Projects: **
 - Real Estate Consumer & Admin Sites
+```
 Using Tech : Vue , Node.js(Express) and MariaDB
  OAuth with Gmail & Facebook 
 Automated Testing with Mochi & Chai (Javascript Framework)
@@ -82,13 +84,12 @@ Developed and maintained both Front-end and Back-end
 Solved the problems about this project ,  and provide the better solutions for team members
 ```
 
-
 ### T-Work System IT Solution / Web & Mobile Developer
 December 2017 - June 2019,  Mandalay
-- Mobile Application Development:
+
+** Mobile Application Development: **
+- Ionic 3, Angular 4 & Cordova Projects: Quiz App
 ```
-- Ionic 3, Angular 4 & Cordova Projects: 
-- Quiz App
 Administration and Customer Products Ordering Apps
 Used with REST APIs of Wordpress and E-commerce
 Can create products and managed e-commerce features (as shopkeepers and admins)
@@ -98,13 +99,14 @@ Scanned QR and updated the entry ID of each staff
 My Location and Routing Directory App with Google Map
 ```
 
-- Web Development:
-```
+** Web Development: **
 - Wordpress(CMS) Projects:
+```
 Create Own Theme & Plugin, 
 Endpoint Creating Plugin, 
 Woocommerce , SEO, REST APIs
 ```
+
 
 ## Skills & Technologies
 ### Front End
