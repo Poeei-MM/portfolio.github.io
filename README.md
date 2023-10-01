@@ -30,8 +30,8 @@ Re-build new project with laravel (form Fuel project)
 Run and maintain with Docker Service
 Build and deploy on AWS CI/CD
 Collaborate and communicate with Japan Team Members
-
-
+```
+```
 - Employee Management System
 Used Tech :  Laravel-6, MySQL and AWS S3
 Initial On-the-Job Training(OJT)
@@ -44,6 +44,7 @@ Use AWS Code Commit for Version Control
 Collaborated with Management Team in Japan
 Laravel Design Patterns (OJT)
 ```
+
 - GoLang & React JS Project:
 ```
 Content Form Management Consumer and Administration Sites
@@ -55,6 +56,7 @@ Use GitLab for Version Control
 Develop with AWS WAF , SNS notification alert for Website Security 
 Learn and research for React Framework
 ```
+
 - Node JS & Vue JS Projects:
 ```
 - Real Estate Consumer & Admin Sites
@@ -79,6 +81,8 @@ Collaborated with Management Team in Japan
 Developed and maintained both Front-end and Back-end
 Solved the problems about this project ,  and provide the better solutions for team members
 ```
+
+
 ### T-Work System IT Solution / Web & Mobile Developer
 December 2017 - June 2019,  Mandalay
 - Mobile Application Development:
@@ -93,7 +97,8 @@ QR Code Scanner App
 Scanned QR and updated the entry ID of each staff
 My Location and Routing Directory App with Google Map
 ```
-Web Development:
+
+- Web Development:
 ```
 - Wordpress(CMS) Projects:
 Create Own Theme & Plugin, 
